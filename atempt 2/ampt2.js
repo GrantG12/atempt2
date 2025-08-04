@@ -67,7 +67,7 @@ document.addEventListener('DOMContentLoaded', async () => {
     // Initialize game
     async function initGame() {
         try {
-            const response = await fetch('players.json'); 
+            const response = await fetch('./players.json'); 
             if (!response.ok) {
                 throw new Error('Failed to load player data');
             }
