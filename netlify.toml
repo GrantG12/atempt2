@@ -1,6 +1,6 @@
 [build]
   functions = "netlify/functions"
-  publish = "atempt 2"  # Matches your folder name exactly
+  publish = "."  # Matches your folder name exactly
 
 [functions]
   node_bundler = "esbuild"
