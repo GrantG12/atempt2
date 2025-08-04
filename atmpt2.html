@@ -1,0 +1,186 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Grant Glaser Portfolio</title>
+    <link rel="stylesheet" href="atmpt2.css">
+    <link rel="icon" href="GGLogo.png" type="image/x-icon">
+    <link rel="shortcut icon" href="GGLogo.png" type="image/x-icon">
+    <link rel="apple-touch-icon" href="GGLogo.png">
+</head>
+<body>
+    <!-- Navigation -->
+    <nav class="side-nav">
+        <input type="checkbox" id="nav-toggle" hidden>
+        <ul>
+            <li><a href="#title">Title</a></li>
+            <li><a href="#about">About Me</a></li>
+            <li><a href="#resume">Resume</a></li>
+            <li><a href="#projects">Projects</a></li>
+            <li><a href="#contact">Contact</a></li>
+        </ul>
+    </nav>
+
+    <!-- Title Screen -->
+    <section class="glass-card section title" id="title">
+        <div class="title-flex">
+            <div class="title-info-animated">
+                <h1 class="neon-text animate-text">Grant Glaser</h1>
+                <h2 class="animate-text">Computer Science Student</h2>
+                <h3 class="animate-text">Software Development & Cybersecurity</h3>
+            </div>
+            <div class="title-image-glow">
+                <div class="neon-circle">
+                <img src="AnimatedSelf.png" alt="Grant Glaser Animated Self" />
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- About Me Screen -->
+    <section class="glass-card section from-right" id="about">
+        <div class="experience-columns">
+            <div class="experience-left">
+                <h2 class="neon-text">About Me </h2>
+                <img src="AboutMe.jpg" alt="About Me" class="aboutme-img" />
+            </div>
+            <div class="experience-right">
+                <p>
+                <b>My name is Grant Glaser. I’m a computer science student at Tiffin University, where I also play quarterback for the football program. I’m twenty years old and on track to graduate in three years with a bachelor’s degree in computer science, specializing in software development and minoring in cybersecurity.
+                </b>
+                <br></br>Since I was a kid, I’ve always been drawn to science and a deeper understanding of how things work. That curiosity naturally led me to computer science and has fueled my passion for exploring how technology intersects with both the physical and digital worlds.
+                <br></br>Balancing college football with academics has been one of my greatest and most fun challenges. It’s taught me discipline, resilience, leadership, and time management, all of which I carry into both the classroom and the field.
+                <br></br>After graduation, I plan to pursue a career in software development, ideally blending my technical background with my interests in sports, computational neuroscience, physical performance technology, and video game development. I’m excited to build innovative tools and experiences that push the limits of both human and machine potential.
+                </p>
+            </div>
+        </div>
+    </section>
+
+    <!-- Resume Screen -->
+    <section class="glass-card section" id="resume">
+        <div class="resume-flex">
+            <div class="resume-text">
+                <h2 class="neon-text">Resume</h2>
+            </div>
+            <div class="resume-images">
+                <div class="resume-image">
+                    <img src="MainHandPage2.PNG" alt="Grant Glaser Business Card" class="resume-hover-img"/>
+                </div>
+                <div class="resume-info">
+                    <img src="ResumeImg.png" alt="Grant Glaser Resume" class="resume-hover-img" />
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Project Screen -->
+   <section class="glass-card section" id="projects">
+        <h2 class="neon-text">Projects</h2>
+        <div class="project-grid">
+            <!-- First Project: 1/3 width -->
+            <div class="project-panel project-panel-small">
+                <video controls class="project-img" autoplay loop muted>
+                    <source src="SphereVid.mp4" type="video/mp4" />
+                    Your browser does not support the video tag.
+                </video>
+                <div class="project-description">
+                    <h3>Java 3D Sphere Renderer</h3>
+                    <h4>
+                    An interactive 3D sphere renderer built in Java. Users can rotate the sphere and adjust its smoothness in real time using sliders for heading, pitch, and subdivisions. The project demonstrates custom 3D graphics, triangle rasterization, and real-time shading all without external libraries.
+                    </h4>
+                    <a href="DemoViewer.java" class="project-link" download target="_blank">Download Source Code</a>
+                </div>
+            </div>
+        <!-- Second Project: 2/3 width - NFL Game -->
+            <div class="project-panel project-panel-large">
+                <div id="game-container">
+                <div id="game-start">
+                    <p>Guess which college an NFL player attended based on clues!</p>
+                    <button id="start-game" class="game-button">Start Game</button>
+                </div>
+            </div>
+            <div id="game-play" style="display: none;">
+                <div id="game-stats">
+                <p>Score: <span id="current-score">0</span> &nbsp;&nbsp;&nbsp;&nbsp; Lives: <span id="lives">5</span> &nbsp;&nbsp;&nbsp;&nbsp; High Score: <span id="high-score">0</span></p><br></br>
+            <div id="player-info">
+                <h3 id="player-name"></h3>
+                <div id="clues">
+                    <p><strong> </strong> <span id="conference-clue"></span></p>
+                    <p><strong> </strong> <span id="color-clue"></span></p>
+                </div>
+            </div>
+            <div id="guess-section">
+                <input type="text" id="college-guess" placeholder="Enter college name">
+                <button id="submit-guess" class="game-button">Submit Guess</button>
+                <button id="next-player" class="game-button" style="display: none;">Next Player</button>
+            </div>
+            <div id="result"></div>
+        </div>
+
+        <div id="game-over" style="display: none;">
+            <h2>Game Over!</h2>
+            <p>Your final score: <span id="final-score">0</span></p>
+            <p>High Score: <span id="high-score-end-screen">0</span></p> <button id="play-again" class="game-button">Play Again</button>
+        </div>
+
+    </div>
+        <div class="project-description">
+             <h3>NFL College Guessing Game</h3>
+            <h4>
+                An interactive game where you guess which college an NFL player attended based on clues about their career. Features include multiple difficulty clues, score tracking, and a database of famous NFL players. Built with JavaScript and designed to integrate with sports data APIs.
+            </h4>
+            <a href="ampt2.js" class="project-link" download target="_blank"> Download Source Code</a>
+            <a href="players.json" class="project-link" download style="margin-left: 15px;" target="_blank">Download Player Data</a>
+        </div>
+    </div>
+     <!-- AI Debate Bots -->
+        <div class="project-panel project-panel-large">
+            <div class="debate-container">
+                <h3>AI Debate Bots</h3>
+                <div class="input-section">
+                    <input type="text" id="topic-input" placeholder="Enter debate topic...">
+                    <button id="start-debate" class="game-button">Start Debate</button>
+                    <div class="intensity-controls">
+                        <label>Devil's Advocate Intensity:
+                            <input type="range" id="devil-intensity" min="0.5" max="1.5" step="0.1" value="1.0">
+                        </label>
+                        <label>Optimist Intensity:
+                            <input type="range" id="optimist-intensity" min="0.5" max="1.5" step="0.1" value="1.0">
+                        </label>
+                    </div>
+                </div>
+                
+                <div class="debate-area">
+                    <div class="bot-container" id="devils-advocate">
+                        <h4>Devil's Advocate</h4>
+                        <div class="chat-box"></div>
+                    </div>
+                    <div class="bot-container" id="optimist">
+                        <h4>Optimist</h4>
+                        <div class="chat-box"></div>
+                    </div>
+                </div>
+            </div>
+            <div class="project-description">
+                <h4>About This Project</h4>
+                <p>Two AI chatbots that debate any topic from opposite perspectives. The Devil's Advocate takes contrarian positions while the Optimist focuses on positive outcomes.</p>
+                <p>Built with OpenAI API and custom prompt engineering to create distinct personalities.</p>
+            </div>
+        </div>
+
+    </section>
+
+   <!-- Footer / Contact Info -->
+    <footer class="footer-contact section" id="contact">
+        <div class="footer-content">
+            <h2 class="neon-text">Contact Me</h2>
+            <p>Email: <a href="mailto:GlaserGN@tiffin.edu">GlaserGn@tiffin.edu</a></p>
+            <p>LinkedIn: <a href="https://www.linkedin.com/in/grant-glaser-386956290">My LinkedIn</a></p>
+            <p>Phone Number: <a href="tel:6149566675">614-956-6675</a></p>
+        </div>
+    </footer>
+    <script src="ampt2.js"></script>
+    <script src="debate.js"></script>
+</body>
+</html>

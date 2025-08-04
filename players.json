@@ -1,0 +1,2001 @@
+[
+    {
+        "name": "Ken Anderson",
+        "conference": "College Conference of Illinois & Wisconsin",
+        "color": ["Blue", "Yellow", "White"],
+        "college": "Augustana"
+    },
+    {
+        "name": "Troy Aikman",
+        "conference": "Pac-10",
+        "color": ["Blue", "Gold"],
+        "college": "UCLA"
+    },
+    {
+        "name": "Sammy Baugh",
+        "conference": "Southwest Conference",
+        "color": ["Purple", "White"],
+        "college": "TCU"
+    },
+    {
+        "name": "John Brodie",
+        "conference": "Pac-8",
+        "color": ["Red", "White"],
+        "college": "Stanford"
+    },
+    {
+        "name": "George Blanda",
+        "conference": "SEC",
+        "color": ["Blue", "White"],
+        "college": "Kentucky"
+    },
+    {
+        "name": "Drew Brees",
+        "conference": "Big Ten",
+        "color": ["Black", "Gold"],
+        "college": "Purdue"
+    },
+    {
+        "name": "Terry Bradshaw",
+        "conference": "Southland Conference",
+        "color": ["Red","Blue", "White"],
+        "college": "Louisiana Tech"
+    },
+    {
+        "name": "Sam Bradford",
+        "conference": "Big 12",
+        "color": ["Red", "White"],
+        "college": "Oklahoma"
+    },
+    {
+        "name": "Tom Brady",
+        "conference": "Big Ten",
+        "color": ["Blue", "Yellow"],
+        "college": "Michigan"
+    },
+    {
+        "name": "Randall Cunningham",
+        "conference": "Mountain West",
+        "color": ["Red", "Black"],
+        "college": "UNLV"
+    },
+    {
+        "name": "Tim Couch",
+        "conference": "SEC",
+        "color": ["Blue", "White"],
+        "college": "Kentucky"
+    },
+    {
+        "name": "Len Dawson",
+        "conference": "Big Ten",
+        "color": ["Gold", "Black"],
+        "college": "Purdue"
+    },
+    {
+        "name": "Tony Romo",
+        "conference": "Ohio Valley Conference",
+        "color": ["Navy Blue", "Gray"],
+        "college": "Eastern Illinois"
+    },
+    {
+        "name": "John Elway",
+        "conference": "Pac-10",
+        "color": ["Red", "White"],
+        "college": "Stanford"
+    },
+    {
+        "name": "Boomer Esiason",
+        "conference": "ACC",
+        "color": ["Red", "Yellow", "Black"],
+        "college": "Maryland"
+    },
+    {
+        "name": "Jim Everett",
+        "conference": "Pac-10",
+        "color": ["Silver", "Gold"],
+        "college": "Purdue"
+    },
+    {
+        "name": "Joe Flacco",
+        "conference": "Colonial Athletic Association",
+        "color": ["Blue", "Yellow"],
+        "college": "Delaware"
+    },
+    {
+        "name": "Dan Fouts",
+        "conference": "Pac-8",
+        "color": ["Green", "Yellow"],
+        "college": "Oregon"
+    },
+    {
+        "name": "Joe Theismann",
+        "conference": "Independent",
+        "color": ["Gold", "Blue"],
+        "college": "Notre Dame"
+    },
+    {
+        "name": "Roman Gabriel",
+        "conference": "ACC",
+        "color": ["Red", "White"],
+        "college": "NC State"
+    },
+    {
+        "name": "Rich Gannon",
+        "conference": "Eastern College Athletic Conference",
+        "color": ["Blue", "White"],
+        "college": "Delaware"
+    },
+    {
+        "name": "Otto Graham",
+        "conference": "Big Ten",
+        "color": ["Purple", "White"],
+        "college": "Northwestern"
+    },
+    {
+        "name": "Case Keenum",
+        "conference": "C-USA",
+        "color": ["Red", "White"],
+        "college": "Houston"
+    },
+    {
+        "name": "Jim Kelly",
+        "conference": "ACC",
+        "color": ["Orange", "Green"],
+        "college": "Miami (FL)"
+    },
+    {
+        "name": "Matt Leinart",
+        "conference": "Pac-10",
+        "color": ["Red", "Gold"],
+        "college": "USC"
+    },
+    {
+        "name": "Bobby Layne",
+        "conference": "Southwest Conference",
+        "color": ["Orange", "White"],
+        "college": "Texas"
+    },
+    {
+        "name": "Daryle Lamonica",
+        "conference": "Independent",
+        "color": ["Gold", "Blue"],
+        "college": "Notre Dame"
+    },
+    {
+        "name": "Y.A. Tittle",
+        "conference": "SWC",
+        "color": ["Purple", "White"],
+        "college": "LSU"
+    },
+    {
+        "name": "Sid Luckman",
+        "conference": "Ivy League",
+        "color": ["Blue", "White"],
+        "college": "Columbia"
+    },
+    {
+        "name": "Peyton Manning",
+        "conference": "SEC",
+        "color": ["Orange", "White"],
+        "college": "Tennessee"
+    },
+    {
+        "name": "Eli Manning",
+        "conference": "SEC",
+        "color": ["Red", "Blue"],
+        "college": "Ole Miss"
+    },
+    {
+        "name": "Dan Marino",
+        "conference": "Big East",
+        "color": ["Blue", "Gold"],
+        "college": "Pittsburgh"
+    },
+    {
+        "name": "Donovan McNabb",
+        "conference": "Big East",
+        "color": ["Orange", "Blue"],
+        "college": "Syracuse"
+    },
+    {
+        "name": "Joe Montana",
+        "conference": "Independent",
+        "color": ["Gold", "Blue"],
+        "college": "Notre Dame"
+    },
+    {
+        "name": "Warren Moon",
+        "conference": "Pac-8",
+        "color": ["Purple", "Gold"],
+        "college": "Washington"
+    },
+    {
+        "name": "Cam Newton",
+        "conference": "SEC",
+        "color": ["Orange", "Blue"],
+        "college": "Auburn"
+    },
+    {
+        "name": "Joe Namath",
+        "conference": "SEC",
+        "color": ["Red", "White"],
+        "college": "Alabama"
+    },
+    {
+        "name": "Ken Stabler",
+        "conference": "SEC",
+        "color": ["Red", "White"],
+        "college": "Alabama"
+    },
+    {
+        "name": "Roger Staubach",
+        "conference": "Independent",
+        "color": ["Navy Blue", "Gold"],
+        "college": "Navy"
+    },
+    {
+        "name": "Bart Starr",
+        "conference": "SEC",
+        "color": ["Red", "White"],
+        "college": "Alabama"
+    },
+    {
+        "name": "Philip Rivers",
+        "conference": "ACC",
+        "color": ["Red", "White"],
+        "college": "NC State"
+    },
+    {
+        "name": "Ben Roethlisberger",
+        "conference": "MAC",
+        "color": ["Red", "White"],
+        "college": "Miami (OH)"
+    },
+    {
+        "name": "Aaron Rodgers",
+        "conference": "Pac-10",
+        "color": ["Blue", "Gold"],
+        "college": "California"
+    },
+    {
+        "name": "Matt Ryan",
+        "conference": "ACC",
+        "color": ["Maroon", "Gold"],
+        "college": "Boston College"
+    },
+    {
+        "name": "Phil Simms",
+        "conference": "Ohio Valley Conference",
+        "color": ["Red", "White"],
+        "college": "Morehead State"
+    },
+    {
+        "name": "Steve Spurrier",
+        "conference": "SEC",
+        "color": ["Orange", "Blue"],
+        "college": "Florida"
+    },
+    {
+        "name": "John Hadl",
+        "conference": "Big Eight",
+        "color": ["Red", "Blue"],
+        "college": "Kansas"
+    },
+    {
+        "name": "Patrick Mahomes",
+        "conference": "Big 12",
+        "color": ["Red", "Black"],
+        "college": "Texas Tech"
+    },
+    {
+        "name": "Fran Tarkenton",
+        "conference": "SEC",
+        "color": ["Red", "Black"],
+        "college": "Georgia"
+    },
+    {
+        "name": "Vinny Testaverde",
+        "conference": "ACC",
+        "color": ["Orange", "Green"],
+        "college": "Miami (FL)"
+    },
+    {
+        "name": "Steve Young",
+        "conference": "WAC",
+        "color": ["Blue", "White"],
+        "college": "BYU"
+    },
+    {
+        "name": "Norm Van Brocklin",
+        "conference": "Pac-8",
+        "color": ["Green", "Yellow"],
+        "college": "Oregon"
+    },
+    {
+        "name": "Johnny Unitas",
+        "conference": "MVFC",
+        "color": ["Red", "Black"],
+        "college": "Louisville"
+    },
+    {
+        "name": "Brett Favre",
+        "conference": "C-USA",
+        "color": ["Black", "Gold"],
+        "college": "Southern Miss"
+    },
+    {
+        "name": "Kurt Warner",
+        "conference": "MVFC",
+        "color": ["Purple", "Gold"],
+        "college": "UNI"
+    },
+    {
+        "name": "Russell Wilson",
+        "conference": "Big Ten",
+        "color": ["Red", "White"],
+        "college": "Wisconsin"
+    },
+    {
+        "name": "Charlie Ward",
+        "conference": "ACC",
+        "color": ["Maroon", "Gold"],
+        "college": "Florida State"
+    },
+    {
+        "name": "Ty Detmer",
+        "conference": "WAC",
+        "color": ["Blue", "White"],
+        "college": "BYU"
+    },
+    {
+        "name": "Davey O'Brien",
+        "conference": "Southwest Conference",
+        "color": ["Purple", "White"],
+        "college": "TCU"
+    },
+    {
+        "name": "Carson Palmer",
+        "conference": "Pac-10",
+        "color": ["Red", "Gold"],
+        "college": "USC"
+    },
+    {
+        "name": "Colt McCoy",
+        "conference": "Big 12",
+        "color": ["Orange", "White"],
+        "college": "Texas"
+    },
+    {
+        "name": "Kellen Moore",
+        "conference": "Mountain West",
+        "color": ["Blue", "Orange"],
+        "college": "Boise State"
+    },
+    {
+        "name": "Tim Tebow",
+        "conference": "SEC",
+        "color": ["Orange", "Blue"],
+        "college": "Florida"
+    },
+    {
+        "name": "Tavon Austin",
+        "conference": "Big East",
+        "color": ["Gold", "Blue"],
+        "college": "West Virginia"
+    },
+    {
+        "name": "Marcus Allen",
+        "conference": "Pac-10",
+        "color": ["Red", "Gold"],
+        "college": "USC"
+    },
+    {
+        "name": "Montee Ball",
+        "conference": "Big Ten",
+        "color": ["Red", "White"],
+        "college": "Wisconsin"
+    },
+    {
+        "name": "Saquon Barkley",
+        "conference": "Big Ten",
+        "color": ["Blue", "White"],
+        "college": "Penn State"
+    },
+    {
+        "name": "Cedric Benson",
+        "conference": "Big 12",
+        "color": ["Orange", "White"],
+        "college": "Texas"
+    },
+    {
+        "name": "Doc Blanchard",
+        "conference": "Independent",
+        "color": ["Black", "Gold"],
+        "college": "Army"
+    },
+    {
+        "name": "Justin Blackmon",
+        "conference": "Big 12",
+        "color": ["Orange", "Black"],
+        "college": "Oklahoma State"
+    },
+    {
+        "name": "Anquan Boldin",
+        "conference": "ACC",
+        "color": ["Maroon", "Gold"],
+        "college": "Florida State"
+    },
+    {
+        "name": "Isaac Bruce",
+        "conference": "C-USA",
+        "color": ["Blue", "Gold"],
+        "college": "Memphis"
+    },
+    {
+        "name": "Ryan Broyles",
+        "conference": "Big 12",
+        "color": ["Red", "White"],
+        "college": "Oklahoma"
+    },
+    {
+        "name": "Dez Bryant",
+        "conference": "Big 12",
+        "color": ["Orange", "Black"],
+        "college": "Oklahoma State"
+    },
+    {
+        "name": "Fred Biletnikoff",
+        "conference": "ACC",
+        "color": ["Maroon", "Gold"],
+        "college": "Florida State"
+    },
+    {
+        "name": "Antonio Brown",
+        "conference": "MAC",
+        "color": ["Maroon", "Gold"],
+        "college": "Central Michigan"
+    },
+    {
+        "name": "Tim Brown",
+        "conference": "Independent",
+        "color": ["Gold", "Blue"],
+        "college": "Notre Dame"
+    },
+    {
+        "name": "Reggie Bush",
+        "conference": "Pac-10",
+        "color": ["Red", "Gold"],
+        "college": "USC"
+    },
+    {
+        "name": "Earl Campbell",
+        "conference": "Big 12",
+        "color": ["Orange", "White"],
+        "college": "Texas"
+    },
+    {
+        "name": "John Cappelletti",
+        "conference": "Independent",
+        "color": ["Blue", "White"],
+        "college": "Penn State"
+    },
+    {
+        "name": "Ka'Deem Carey",
+        "conference": "Pac-12",
+        "color": ["Red", "Blue", "White"],
+        "college": "Arizona"
+    },
+    {
+        "name": "Michael Crabtree",
+        "conference": "Big 12",
+        "color": ["Red", "Black"],
+        "college": "Texas Tech"
+    },
+    {
+        "name": "Corey Davis",
+        "conference": "MAC",
+        "color": ["Brown", "Gold"],
+        "college": "Western Michigan"
+    },
+    {
+        "name": "Troy Davis",
+        "conference": "Big 12",
+        "color": ["Red", "Gold"],
+        "college": "Iowa State"
+    },
+    {
+        "name": "Ron Dayne",
+        "conference": "Big Ten",
+        "color": ["Red", "White"],
+        "college": "Wisconsin"
+    },
+    {
+        "name": "Eric Dickerson",
+        "conference": "SWC",
+        "color": ["Red", "Blue"],
+        "college": "SMU"
+    },
+    {
+        "name": "Tony Dorsett",
+        "conference": "Big East",
+        "color": ["Blue", "Gold"],
+        "college": "Pittsburgh"
+    },
+    {
+        "name": "Braylon Edwards",
+        "conference": "Big Ten",
+        "color": ["Blue", "Yellow"],
+        "college": "Michigan"
+    },
+    {
+        "name": "Henry Ellard",
+        "conference": "Pac-10",
+        "color": ["Blue", "Red"],
+        "college": "Fresno State"
+    },
+    {
+        "name": "Ezekiel Elliott",
+        "conference": "Big Ten",
+        "color": ["Red", "Gray"],
+        "college": "Ohio State"
+    },
+    {
+        "name": "Marshall Faulk",
+        "conference": "WAC",
+        "color": ["Red", "Black"],
+        "college": "San Diego State"
+    },
+    {
+        "name": "Mike Garrett",
+        "conference": "Pac-8",
+        "color": ["Red", "Gold"],
+        "college": "USC"
+    },
+    {
+        "name": "Eddie George",
+        "conference": "Big Ten",
+        "color": ["Red", "Gray"],
+        "college": "Ohio State"
+    },
+    {
+        "name": "Melvin Gordon",
+        "conference": "Big Ten",
+        "color": ["Red", "White"],
+        "college": "Wisconsin"
+    },
+    {
+        "name": "A.J. Green",
+        "conference": "SEC",
+        "color": ["Red", "Black"],
+        "college": "Georgia"
+    },
+    {
+        "name": "Red Grange",
+        "conference": "Big Ten",
+        "color": ["Orange", "Blue"],
+        "college": "Illinois"
+    },
+    {
+        "name": "Archie Griffin",
+        "conference": "Big Ten",
+        "color": ["Red", "Gray"],
+        "college": "Ohio State"
+    },
+    {
+        "name": "Percy Harvin",
+        "conference": "SEC",
+        "color": ["Orange", "Blue"],
+        "college": "Florida"
+    },
+    {
+        "name": "Bob Hayes",
+        "conference": "MEAC",
+        "color": ["Orange", "Green"],
+        "college": "Florida A&M"
+    },
+    {
+        "name": "Derrick Henry",
+        "conference": "SEC",
+        "color": ["Red", "White"],
+        "college": "Alabama"
+    },
+    {
+        "name": "DeAndre Hopkins",
+        "conference": "ACC",
+        "color": ["Purple", "Orange"],
+        "college": "Clemson"
+    },
+    {
+        "name": "Don Hutson",
+        "conference": "SEC",
+        "color": ["Red", "White"],
+        "college": "Alabama"
+    },
+    {
+        "name": "Bo Jackson",
+        "conference": "SEC",
+        "color": ["Orange", "Blue"],
+        "college": "Auburn"
+    },
+    {
+        "name": "LaMichael James",
+        "conference": "Pac-12",
+        "color": ["Green", "Yellow"],
+        "college": "Oregon"
+    },
+    {
+        "name": "Dwayne Jarrett",
+        "conference": "Pac-10",
+        "color": ["Red", "Gold"],
+        "college": "USC"
+    },
+    {
+        "name": "Jerry Jeudy",
+        "conference": "SEC",
+        "color": ["Red", "White"],
+        "college": "Alabama"
+    },
+    {
+        "name": "Calvin Johnson",
+        "conference": "ACC",
+        "color": ["Gold", "White"],
+        "college": "Georgia Tech"
+    },
+    {
+        "name": "Chad Johnson",
+        "conference": "C-USA",
+        "color": ["Orange", "White"],
+        "college": "Oregon State"
+    },
+    {
+        "name": "Julio Jones",
+        "conference": "SEC",
+        "color": ["Red", "White"],
+        "college": "Alabama"
+    },
+    {
+        "name": "CeeDee Lamb",
+        "conference": "Big 12",
+        "color": ["Red", "White"],
+        "college": "Oklahoma"
+    },
+    {
+        "name": "Marqise Lee",
+        "conference": "Pac-12",
+        "color": ["Red", "Gold"],
+        "college": "USC"
+    },
+    {
+        "name": "James Lofton",
+        "conference": "Pac-8",
+        "color": ["Red", "White"],
+        "college": "Stanford"
+    },
+    {
+        "name": "Art Monk",
+        "conference": "Independent",
+        "color": ["Orange", "Blue"],
+        "college": "Syracuse"
+    },
+    {
+        "name": "Randy Moss",
+        "conference": "MAC",
+        "color": ["Green", "White"],
+        "college": "Marshall"
+    },
+    {
+        "name": "Don Maynard",
+        "conference": "WAC",
+        "color": ["Orange", "White"],
+        "college": "UTEP"
+    },
+    {
+        "name": "Terrell Owens",
+        "conference": "Ohio Valley Conference",
+        "color": ["Yellow", "Blue"],
+        "college": "UT Chattanooga"
+    },
+    {
+        "name": "Walter Payton",
+        "conference": "SWAC",
+        "color": ["Blue", "White"],
+        "college": "Jackson State"
+    },
+    {
+        "name": "Adrian Peterson",
+        "conference": "SoCon",
+        "color": ["Blue", "White"],
+        "college": "Georgia Southern"
+    },
+    {
+        "name": "Travis Prentice",
+        "conference": "MAC",
+        "color": ["Red", "White"],
+        "college": "Miami (OH)"
+    },
+    {
+        "name": "Donnel Pumphrey",
+        "conference": "Mountain West",
+        "color": ["Red", "Black"],
+        "college": "San Diego State"
+    },
+    {
+        "name": "Calvin Ridley",
+        "conference": "SEC",
+        "color": ["Red", "White"],
+        "college": "Alabama"
+    },
+    {
+        "name": "Ray Rice",
+        "conference": "Big East",
+        "color": ["Red", "Black"],
+        "college": "Rutgers"
+    },
+    {
+        "name": "Jerry Rice",
+        "conference": "SWAC",
+        "color": ["Green", "Red", "White"],
+        "college": "Mississippi Valley State"
+    },
+    {
+        "name": "George Rogers",
+        "conference": "SEC",
+        "color": ["Garnet", "Black"],
+        "college": "South Carolina"
+    },
+    {
+        "name": "Charles Rogers",
+        "conference": "Big Ten",
+        "color": ["Green", "White"],
+        "college": "Michigan State"
+    },
+    {
+        "name": "Mike Rozier",
+        "conference": "Big Eight",
+        "color": ["Red", "White"],
+        "college": "Nebraska"
+    },
+    {
+        "name": "Barry Sanders",
+        "conference": "Big Eight",
+        "color": ["Orange", "Black"],
+        "college": "Oklahoma State"
+    },
+    {
+        "name": "Sterling Sharpe",
+        "conference": "SEC",
+        "color": ["Garnet", "Black"],
+        "college": "South Carolina"
+    },
+    {
+        "name": "Billy Sims",
+        "conference": "Big Eight",
+        "color": ["Red", "White"],
+        "college": "Oklahoma"
+    },
+    {
+        "name": "O.J. Simpson",
+        "conference": "Pac-8",
+        "color": ["Red", "Gold"],
+        "college": "USC"
+    },
+    {
+        "name": "Emmitt Smith",
+        "conference": "SEC",
+        "color": ["Orange", "Blue"],
+        "college": "Florida"
+    },
+    {
+        "name": "Steve Smith Sr.",
+        "conference": "Mountain West",
+        "color": ["White", "Red"],
+        "college": "Utah"
+    },
+    {
+        "name": "Darren Sproles",
+        "conference": "Big 12",
+        "color": ["Purple", "White"],
+        "college": "Kansas State"
+    },
+    {
+        "name": "John Stallworth",
+        "conference": "SWAC",
+        "color": ["Red", "White"],
+        "college": "Alabama A&M"
+    },
+    {
+        "name": "Golden Tate",
+        "conference": "Independent",
+        "color": ["Gold", "Blue"],
+        "college": "Notre Dame"
+    },
+    {
+        "name": "Thurman Thomas",
+        "conference": "Big Eight",
+        "color": ["Orange", "Black"],
+        "college": "Oklahoma State"
+    },
+    {
+        "name": "Anthony Thompson",
+        "conference": "Big Ten",
+        "color": ["White", "Red"],
+        "college": "Indiana"
+    },
+    {
+        "name": "Jim Thorpe",
+        "conference": "Independent",
+        "color": ["Red", "White"],
+        "college": "Carlisle Indian Industrial School"
+    },
+    {
+        "name": "LaDainian Tomlinson",
+        "conference": "C-USA",
+        "color": ["Purple", "White"],
+        "college": "TCU"
+    },
+    {
+        "name": "Doak Walker",
+        "conference": "SWC",
+        "color": ["Red", "Blue"],
+        "college": "SMU"
+    },
+    {
+        "name": "Herschel Walker",
+        "conference": "SEC",
+        "color": ["Red", "Black"],
+        "college": "Georgia"
+    },
+    {
+        "name": "James Washington",
+        "conference": "Pac-10",
+        "color": ["Blue", "Gold"],
+        "college": "UCLA"
+    },
+    {
+        "name": "Charles White",
+        "conference": "Pac-10",
+        "color": ["Red", "Gold"],
+        "college": "USC"
+    },
+    {
+        "name": "DeAngelo Williams",
+        "conference": "C-USA",
+        "color": ["Blue", "Gray"],
+        "college": "Memphis"
+    },
+    {
+        "name": "Roy Williams",
+        "conference": "Big 12",
+        "color": ["Red", "White"],
+        "college": "Oklahoma"
+    },
+    {
+        "name": "Ricky Williams",
+        "conference": "Big 12",
+        "color": ["Orange", "White"],
+        "college": "Texas"
+    },
+    {
+        "name": "Mike Williams",
+        "conference": "SEC",
+        "color": ["Red", "White"],
+        "college": "USC"
+    },
+    {
+        "name": "Dede Westbrook",
+        "conference": "Big 12",
+        "color": ["Red", "White"],
+        "college": "Oklahoma"
+    },
+    {
+        "name": "Garrett Wolfe",
+        "conference": "MAC",
+        "color": ["Red", "Black"],
+        "college": "Northern Illinois"
+    },
+    {
+        "name": "Rashaun Woods",
+        "conference": "Big 12",
+        "color": ["Orange", "Black"],
+        "college": "Oklahoma State"
+    },
+    {
+        "name": "Larry Allen",
+        "conference": "CCAA",
+        "color": ["Blue", "White"],
+        "college": "Sonoma State"
+    },
+    {
+        "name": "Barrett Jones",
+        "conference": "SEC",
+        "color": ["Red", "White"],
+        "college": "Alabama"
+    },
+    {
+        "name": "Walter Jones",
+        "conference": "ACC",
+        "color": ["Maroon", "Gold"],
+        "college": "Florida State"
+    },
+    {
+        "name": "Bruce Matthews",
+        "conference": "Pac-10",
+        "color": ["Red", "Gold"],
+        "college": "USC"
+    },
+    {
+        "name": "Anthony Muñoz",
+        "conference": "Pac-10",
+        "color": ["Red", "Gold"],
+        "college": "USC"
+    },
+    {
+        "name": "Jonathan Ogden",
+        "conference": "Pac-10",
+        "color": ["Blue", "Gold"],
+        "college": "UCLA"
+    },
+    {
+        "name": "Jim Otto",
+        "conference": "ACC",
+        "color": ["Orange", "Green"],
+        "college": "Miami (FL)"
+    },
+    {
+        "name": "Orlando Pace",
+        "conference": "Big Ten",
+        "color": ["Red", "Gray"],
+        "college": "Ohio State"
+    },
+    {
+        "name": "Jim Parker",
+        "conference": "Big Ten",
+        "color": ["Red", "Gray"],
+        "college": "Ohio State"
+    },
+    {
+        "name": "Dave Rimington",
+        "conference": "Big Eight",
+        "color": ["Red", "White"],
+        "college": "Nebraska"
+    },
+    {
+        "name": "Will Shields",
+        "conference": "Big Eight",
+        "color": ["Red", "White"],
+        "college": "Nebraska"
+    },
+    {
+        "name": "Joe Thomas",
+        "conference": "Big Ten",
+        "color": ["Red", "White"],
+        "college": "Wisconsin"
+    },
+    {
+        "name": "Gene Upshaw",
+        "conference": "Big Sky",
+        "color": ["Purple", "Gold"],
+        "college": "Texas A&I"
+    },
+    {
+        "name": "Marshall Yanda",
+        "conference": "Big Ten",
+        "color": ["Black", "Yellow"],
+        "college": "Iowa"
+    },
+    {
+        "name": "Trent Williams",
+        "conference": "Big 12",
+        "color": ["Red", "White"],
+        "college": "Oklahoma"
+    },
+    {
+        "name": "Will Anderson Jr.",
+        "conference": "SEC",
+        "color": ["Red", "White"],
+        "college": "Alabama"
+    },
+    {
+        "name": "Jessie Armstead",
+        "conference": "ACC",
+        "color": ["Orange", "Green"],
+        "college": "Miami (FL)"
+    },
+    {
+        "name": "Steve Atwater",
+        "conference": "SWC",
+        "color": ["Red", "White"],
+        "college": "Arkansas"
+    },
+    {
+        "name": "Ronde Barber",
+        "conference": "ACC",
+        "color": ["Blue", "Orange"],
+        "college": "Virginia"
+    },
+    {
+        "name": "Chuck Bednarik",
+        "conference": "Independent",
+        "color": ["Red", "Blue"],
+        "college": "Pennsylvania"
+    },
+    {
+        "name": "Eric Berry",
+        "conference": "SEC",
+        "color": ["Orange", "White"],
+        "college": "Tennessee"
+    },
+    {
+        "name": "Mel Blount",
+        "conference": "SWAC",
+        "color": ["Yellow", "Blue"],
+        "college": "Southern"
+    },
+    {
+        "name": "Brian Bosworth",
+        "conference": "Big Eight",
+        "color": ["Red", "White"],
+        "college": "Oklahoma"
+    },
+    {
+        "name": "Derrick Brooks",
+        "conference": "ACC",
+        "color": ["Maroon", "Gold"],
+        "college": "Florida State"
+    },
+    {
+        "name": "Tedy Bruschi",
+        "conference": "Pac-10",
+        "color": ["Red", "Blue"],
+        "college": "Arizona"
+    },
+    {
+        "name": "Cornelius Bennett",
+        "conference": "SEC",
+        "color": ["Red", "White"],
+        "college": "Alabama"
+    },
+    {
+        "name": "Mark Carrier",
+        "conference": "Pac-10",
+        "color": ["Red", "Gold"],
+        "college": "USC"
+    },
+    {
+        "name": "Jack Ham",
+        "conference": "Big Ten",
+        "color": ["Blue", "White"],
+        "college": "Penn State"
+    },
+    {
+        "name": "Jack Lambert",
+        "conference": "MAC",
+        "color": ["Red", "White"],
+        "college": "Kent State"
+    },
+    {
+        "name": "Jack Tatum",
+        "conference": "Pac-8",
+        "color": ["Red", "Gray"],
+        "college": "Ohio State"
+    },
+    {
+        "name": "Jack Youngblood",
+        "conference": "SEC",
+        "color": ["Orange", "Blue"],
+        "college": "Florida"
+    },
+    {
+        "name": "Jadeveon Clowney",
+        "conference": "SEC",
+        "color": ["Maroon", "Black"],
+        "college": "South Carolina"
+    },
+    {
+        "name": "Chris Doleman",
+        "conference": "ACC",
+        "color": ["Blue", "White","Yellow"],
+        "college": "Pittsburgh"
+    },
+    {
+        "name": "Richard Dent",
+        "conference": "SWAC",
+        "color": ["Blue", "White"],
+        "college": "Tennessee State"
+    },
+    {
+        "name": "Aaron Donald",
+        "conference": "ACC",
+        "color": ["Blue", "Gold"],
+        "college": "Pittsburgh"
+    },
+    {
+        "name": "Jason Taylor",
+        "conference": "MAC",
+        "color": ["Gold", "Blue"],
+        "college": "Akron"
+    },
+    {
+        "name": "Ed Reed",
+        "conference": "ACC",
+        "color": ["Orange", "Green"],
+        "college": "Miami (FL)"
+    },
+    {
+        "name": "Ray Lewis",
+        "conference": "ACC",
+        "color": ["Orange", "Green"],
+        "college": "Miami (FL)"
+    },
+    {
+        "name": "Luke Kuechly",
+        "conference": "ACC",
+        "color": ["Maroon", "Gold"],
+        "college": "Boston College"
+    },
+    {
+        "name": "Lawrence Taylor",
+        "conference": "ACC",
+        "color": ["Blue", "White"],
+        "college": "North Carolina"
+    },
+    {
+        "name": "Junior Seau",
+        "conference": "Pac-10",
+        "color": ["Red", "Gold"],
+        "college": "USC"
+    },
+    {
+        "name": "Reggie White",
+        "conference": "SEC",
+        "color": ["Orange", "White"],
+        "college": "Tennessee"
+    },
+    {
+        "name": "J.J. Watt",
+        "conference": "Big Ten",
+        "color": ["Red", "White"],
+        "college": "Wisconsin"
+    },
+    {
+        "name": "Ndamukong Suh",
+        "conference": "Big Ten",
+        "color": ["Red", "White"],
+        "college": "Nebraska"
+    },
+    {
+        "name": "Patrick Willis",
+        "conference": "SEC",
+        "color": ["Red", "Blue"],
+        "college": "Ole Miss"
+    },
+    {
+        "name": "Troy Polamalu",
+        "conference": "Pac-10",
+        "color": ["Red", "Gold"],
+        "college": "USC"
+    },
+    {
+        "name": "Von Miller",
+        "conference": "Big 12",
+        "color": ["Maroon", "White"],
+        "college": "Texas A&M"
+    },
+    {
+        "name": "Warren Sapp",
+        "conference": "ACC",
+        "color": ["Orange", "Green"],
+        "college": "Miami (FL)"
+    },
+    {
+        "name": "Zach Thomas",
+        "conference": "Big 12",
+        "color": ["Red", "Black"],
+        "college": "Texas Tech"
+    },
+    {
+        "name": "Josh Cribbs",
+        "conference": "MAC",
+        "color": ["Blue", "White"],
+        "college": "Kent State"
+    },
+    {
+        "name": "Chris Davis",
+        "conference": "SEC",
+        "color": ["Orange", "Blue"],
+        "college": "Auburn"
+    },
+    {
+        "name": "Devin Hester",
+        "conference": "ACC",
+        "color": ["Orange", "Green"],
+        "college": "Miami (FL)"
+    },
+    {
+        "name": "Matthew Slater",
+        "conference": "Pac-10",
+        "color": ["Blue", "Gold"],
+        "college": "UCLA"
+    },
+    {
+        "name": "Justin Tucker",
+        "conference": "Big 12",
+        "color": ["Orange", "White"],
+        "college": "Texas"
+    },
+    {
+        "name": "Adam Vinatieri",
+        "conference": "MVFC",
+        "color": ["Yellow", "Blue"],
+        "college": "South Dakota State"
+    },
+    {
+        "name": "Patrick Mahomes",
+        "conference": "Big 12",
+        "color": ["Red", "Black"],
+        "college": "Texas Tech"
+},
+{
+    "name": "Josh Allen",
+    "conference": "Mountain West",
+    "color": ["Brown", "Gold"],
+    "college": "Wyoming"
+},
+{
+    "name": "Joe Burrow",
+    "conference": "SEC",
+    "color": ["Purple", "Gold"],
+    "college": "LSU"
+},
+{
+    "name": "Lamar Jackson",
+    "conference": "ACC",
+    "color": ["Red", "Black"],
+    "college": "Louisville"
+},
+{
+    "name": "Justin Herbert",
+    "conference": "Pac-12",
+    "color": ["Green", "Yellow"],
+    "college": "Oregon"
+},
+{
+    "name": "Dak Prescott",
+    "conference": "SEC",
+    "color": ["Maroon", "White"],
+    "college": "Mississippi State"
+},
+{
+    "name": "Jalen Hurts",
+    "conference": "SEC",
+    "color": ["Red", "White"],
+    "college": "Alabama"
+},
+{
+    "name": "Trevor Lawrence",
+    "conference": "ACC",
+    "color": ["Orange", "Purple"],
+    "college": "Clemson"
+},
+{
+    "name": "C.J. Stroud",
+    "conference": "Big Ten",
+    "color": ["Red", "Gray"],
+    "college": "Ohio State"
+},
+{
+    "name": "Mac Jones",
+    "conference": "SEC",
+    "color": ["Red", "White"],
+    "college": "Alabama"
+},
+{
+    "name": "Jimmy Garoppolo",
+    "conference": "MVFC",
+    "color": ["Blue", "White"],
+    "college": "Eastern Illinois"
+},
+{
+    "name": "Ryan Tannehill",
+    "conference": "SEC",
+    "color": ["Maroon", "White"],
+    "college": "Texas A&M"
+},
+{
+    "name": "Kirk Cousins",
+    "conference": "Big Ten",
+    "color": ["Green", "White"],
+    "college": "Michigan State"
+},
+{
+    "name": "Kyler Murray",
+    "conference": "Big 12",
+    "color": ["Crimson", "Cream"],
+    "college": "Oklahoma"
+},
+{
+    "name": "Tua Tagovailoa",
+    "conference": "SEC",
+    "color": ["Crimson", "White"],
+    "college": "Alabama"
+},
+{
+    "name": "Brock Purdy",
+    "conference": "Big 12",
+    "color": ["Cardinal", "Gold"],
+    "college": "Iowa State"
+},
+{
+    "name": "Jordan Love",
+    "conference": "Mountain West",
+    "color": ["Blue", "White"],
+    "college": "Utah State"
+},
+{
+    "name": "Geno Smith",
+    "conference": "Big 12",
+    "color": ["Blue", "Gold"],
+    "college": "West Virginia"
+},
+{
+    "name": "Baker Mayfield",
+    "conference": "Big 12",
+    "color": ["Red", "White"],
+    "college": "Oklahoma"
+},
+{
+    "name": "Derek Carr",
+    "conference": "Mountain West",
+    "color": ["Red", "Blue"],
+    "college": "Fresno State"
+},
+{
+    "name": "Anthony Richardson",
+    "conference": "SEC",
+    "color": ["Orange", "Blue"],
+    "college": "Florida"
+},
+{
+    "name": "Bryce Young",
+    "conference": "SEC",
+    "color": ["Red", "White"],
+    "college": "Alabama"
+},
+{
+    "name": "Will Levis",
+    "conference": "SEC",
+    "color": ["Blue", "White"],
+    "college": "Kentucky"
+},
+{
+    "name": "Daniel Jones",
+    "conference": "ACC",
+    "color": ["Blue", "White"],
+    "college": "Duke"
+},
+{
+    "name": "Deshaun Watson",
+    "conference": "ACC",
+    "color": ["Orange", "Purple"],
+    "college": "Clemson"
+},
+{
+    "name": "Russell Wilson",
+    "conference": "Big Ten",
+    "color": ["Red", "White"],
+    "college": "Wisconsin"
+},
+{
+    "name": "Jared Goff",
+    "conference": "Pac-12",
+    "color": ["Blue", "Gold"],
+    "college": "California"
+},
+{
+    "name": "Matthew Stafford",
+    "conference": "SEC",
+    "color": ["Red", "Black"],
+    "college": "Georgia"
+},
+{
+    "name": "Sam Howell",
+    "conference": "ACC",
+    "color": ["Blue", "White"],
+    "college": "North Carolina"
+},
+{
+    "name": "Kenny Pickett",
+    "conference": "ACC",
+    "color": ["Blue", "Gold"],
+    "college": "Pittsburgh"
+},
+{
+    "name": "Caleb Williams",
+    "conference": "Pac-12",
+    "color": ["Red", "Gold"],
+    "college": "USC"
+},
+{
+    "name": "Jayden Daniels",
+    "conference": "SEC",
+    "color": ["Purple", "Gold"],
+    "college": "LSU"
+},
+{
+    "name": "Bo Nix",
+    "conference": "Pac-12",
+    "color": ["Green", "Yellow"],
+    "college": "Oregon"
+},
+{
+    "name": "Drake Maye",
+    "conference": "ACC",
+    "color": ["Carolina Blue", "White"],
+    "college": "North Carolina"
+},
+
+{
+    "name": "Christian McCaffrey",
+    "conference": "Pac-12",
+    "color": ["Red", "White"],
+    "college": "Stanford"
+},
+{
+    "name": "Derrick Henry",
+    "conference": "SEC",
+    "color": ["Red", "White"],
+    "college": "Alabama"
+},
+{
+    "name": "Nick Chubb",
+    "conference": "SEC",
+    "color": ["Red", "Black"],
+    "college": "Georgia"
+},
+{
+    "name": "Saquon Barkley",
+    "conference": "Big Ten",
+    "color": ["Blue", "White"],
+    "college": "Penn State"
+},
+{
+    "name": "Jonathan Taylor",
+    "conference": "Big Ten",
+    "color": ["Red", "White"],
+    "college": "Wisconsin"
+},
+{
+    "name": "Josh Jacobs",
+    "conference": "SEC",
+    "color": ["Red", "White"],
+    "college": "Alabama"
+},
+{
+    "name": "Alvin Kamara",
+    "conference": "SEC",
+    "color": ["Orange", "White"],
+    "college": "Tennessee"
+},
+{
+    "name": "Joe Mixon",
+    "conference": "Big 12",
+    "color": ["Red", "White"],
+    "college": "Oklahoma"
+},
+{
+    "name": "Aaron Jones",
+    "conference": "C-USA",
+    "color": ["Blue", "Orange"],
+    "college": "UTEP"
+},
+{
+    "name": "Breece Hall",
+    "conference": "Big 12",
+    "color": ["Red", "Gold"],
+    "college": "Iowa State"
+},
+{
+    "name": "Travis Etienne",
+    "conference": "ACC",
+    "color": ["Orange", "Purple"],
+    "college": "Clemson"
+},
+{
+    "name": "Tony Pollard",
+    "conference": "AAC",
+    "color": ["Blue", "Gray"],
+    "college": "Memphis"
+},
+{
+    "name": "Rhamondre Stevenson",
+    "conference": "Big 12",
+    "color": ["Red", "White"],
+    "college": "Oklahoma"
+},
+{
+    "name": "Javonte Williams",
+    "conference": "ACC",
+    "color": ["Blue", "White"],
+    "college": "North Carolina"
+},
+{
+    "name": "D'Andre Swift",
+    "conference": "SEC",
+    "color": ["Red", "Black"],
+    "college": "Georgia"
+},
+{
+    "name": "James Conner",
+    "conference": "ACC",
+    "color": ["Blue", "Gold"],
+    "college": "Pittsburgh"
+},
+{
+    "name": "David Montgomery",
+    "conference": "Big 12",
+    "color": ["Red", "Gold"],
+    "college": "Iowa State"
+},
+{
+    "name": "Isiah Pacheco",
+    "conference": "Big Ten",
+    "color": ["Red", "Black"],
+    "college": "Rutgers"
+},
+{
+    "name": "Kenneth Walker III",
+    "conference": "Big Ten",
+    "color": ["Green", "White"],
+    "college": "Michigan State"
+},
+{
+    "name": "Dameon Pierce",
+    "conference": "SEC",
+    "color": ["Orange", "Blue"],
+    "college": "Florida"
+},
+{
+    "name": "Brian Robinson Jr.",
+    "conference": "SEC",
+    "color": ["Red", "White"],
+    "college": "Alabama"
+},
+{
+    "name": "Jamaal Williams",
+    "conference": "Mountain West",
+    "color": ["Blue", "White"],
+    "college": "BYU"
+},
+{
+    "name": "Zamir White",
+    "conference": "SEC",
+    "color": ["Red", "Black"],
+    "college": "Georgia"
+},
+{
+    "name": "Tyler Allgeier",
+    "conference": "Big 12",
+    "color": ["Royal Blue", "White"],
+    "college": "BYU"
+},
+{
+    "name": "Jerome Ford",
+    "conference": "AAC",
+    "color": ["Red", "Black"],
+    "college": "Cincinnati"
+},
+{
+    "name": "Chuba Hubbard",
+    "conference": "Big 12",
+    "color": ["Orange", "Black"],
+    "college": "Oklahoma State"
+},
+{
+    "name": "AJ Dillon",
+    "conference": "ACC",
+    "color": ["Maroon", "Gold"],
+    "college": "Boston College"
+},
+{
+    "name": "Zach Charbonnet",
+    "conference": "Pac-12",
+    "color": ["Blue", "Gold"],
+    "college": "UCLA"
+},
+{
+    "name": "Tank Bigsby",
+    "conference": "SEC",
+    "color": ["Orange", "Blue"],
+    "college": "Auburn"
+},
+{
+    "name": "Roschon Johnson",
+    "conference": "Big 12",
+    "color": ["Orange", "White"],
+    "college": "Texas"
+},
+    {
+        "name": "Justin Jefferson",
+        "conference": "SEC",
+        "color": ["Maroon", "Gold"],
+        "college": "LSU"
+    },
+    {
+        "name": "Ja'Marr Chase",
+        "conference": "SEC",
+        "color": ["Purple", "Gold"],
+        "college": "LSU"
+    },
+    {
+        "name": "Tyreek Hill",
+        "conference": "Gulf South Conference",
+        "color": ["Red", "White"],
+        "college": "West Alabama"
+    },
+    {
+        "name": "CeeDee Lamb",
+        "conference": "Big 12",
+        "color": ["Red", "White"],
+        "college": "Oklahoma"
+    },
+    {
+        "name": "Amon-Ra St. Brown",
+        "conference": "Pac-12",
+        "color": ["Red", "Gold"],
+        "college": "USC"
+    },
+    {
+        "name": "Davante Adams",
+        "conference": "Mountain West",
+        "color": ["Blue", "Red"],
+        "college": "Fresno State"
+    },
+    {
+        "name": "A.J. Brown",
+        "conference": "SEC",
+        "color": ["Red", "Blue"],
+        "college": "Ole Miss"
+    },
+    {
+        "name": "Stefon Diggs",
+        "conference": "Big Ten",
+        "color": ["Red", "White", "Yellow"],
+        "college": "Maryland"
+    },
+    {
+        "name": "Jaylen Waddle",
+        "conference": "SEC",
+        "color": ["Red", "White"],
+        "college": "Alabama"
+    },
+    {
+        "name": "Garrett Wilson",
+        "conference": "Big Ten",
+        "color": ["Red", "Gray"],
+        "college": "Ohio State"
+    },
+    {
+        "name": "DeVonta Smith",
+        "conference": "SEC",
+        "color": ["Red", "White"],
+        "college": "Alabama"
+    },
+    {
+        "name": "Chris Olave",
+        "conference": "Big Ten",
+        "color": ["Red", "Gray"],
+        "college": "Ohio State"
+    },
+    {
+        "name": "DK Metcalf",
+        "conference": "SEC",
+        "color": ["Red", "Blue"],
+        "college": "Ole Miss"
+    },
+    {
+        "name": "Terry McLaurin",
+        "conference": "Big Ten",
+        "color": ["Red", "Gray"],
+        "college": "Ohio State"
+    },
+    {
+        "name": "Brandon Aiyuk",
+        "conference": "Pac-12",
+        "color": ["Red", "Gold"],
+        "college": "Arizona State"
+    },
+    {
+        "name": "Keenan Allen",
+        "conference": "Pac-12",
+        "color": ["Blue", "Gold"],
+        "college": "California"
+    },
+    {
+        "name": "Mike Evans",
+        "conference": "SEC",
+        "color": ["Maroon", "White"],
+        "college": "Texas A&M"
+    },
+    {
+        "name": "Deebo Samuel",
+        "conference": "SEC",
+        "color": ["Maroon", "Black"],
+        "college": "South Carolina"
+    },
+    {
+        "name": "Tee Higgins",
+        "conference": "ACC",
+        "color": ["Orange", "Purple"],
+        "college": "Clemson"
+    },
+    {
+        "name": "DJ Moore",
+        "conference": "Big Ten",
+        "color": ["Red", "White", "Yellow"],
+        "college": "Maryland"
+    },
+    {
+        "name": "Drake London",
+        "conference": "Pac-12",
+        "color": ["Red", "Gold"],
+        "college": "USC"
+    },
+    {
+        "name": "Michael Pittman Jr.",
+        "conference": "Pac-12",
+        "color": ["Red", "Gold"],
+        "college": "USC"
+    },
+    {
+        "name": "Cooper Kupp",
+        "conference": "Big Sky",
+        "color": ["Red", "Black"],
+        "college": "Eastern Washington"
+    },
+    {
+        "name": "Tank Dell",
+        "conference": "Big 12",
+        "color": ["Red", "White"],
+        "college": "Houston"
+    },
+    {
+        "name": "Zay Flowers",
+        "conference": "ACC",
+        "color": ["Maroon", "Gold"],
+        "college": "Boston College"
+    },
+    {
+        "name": "Jordan Addison",
+        "conference": "Pac-12",
+        "color": ["Red", "Gold"],
+        "college": "USC"
+    },
+    {
+        "name": "Christian Watson",
+        "conference": "Missouri Valley",
+        "color": ["Green", "Yellow"],
+        "college": "North Dakota State"
+    },
+    {
+        "name": "Jerry Jeudy",
+        "conference": "SEC",
+        "color": ["Red", "White"],
+        "college": "Alabama"
+    },
+    {
+        "name": "Rashee Rice",
+        "conference": "AAC",
+        "color": ["Red", "Blue"],
+        "college": "SMU"
+    },
+    {
+        "name": "George Pickens",
+        "conference": "SEC",
+        "color": ["Red", "Black"],
+        "college": "Georgia"
+    },
+    {
+        "name": "Jaxon Smith-Njigba",
+        "conference": "Big Ten",
+        "color": ["Scarlet", "Gray"],
+        "college": "Ohio State"
+    },
+    {
+        "name": "Josh Downs",
+        "conference": "ACC",
+        "color": [" Blue", "White"],
+        "college": "North Carolina"
+    },
+    {
+    "name": "Myles Garrett",
+    "conference": "SEC",
+    "color": ["Maroon", "White"],
+    "college": "Texas A&M"
+},
+{
+    "name": "T.J. Watt",
+    "conference": "Big Ten",
+    "color": ["Red", "White"],
+    "college": "Wisconsin"
+},
+{
+    "name": "Chris Jones",
+    "conference": "SEC",
+    "color": ["Maroon", "White"],
+    "college": "Mississippi State"
+},
+{
+    "name": "Aaron Donald",
+    "conference": "ACC",
+    "color": ["Blue", "Gold"],
+    "college": "Pittsburgh"
+},
+{
+    "name": "Micah Parsons",
+    "conference": "Big Ten",
+    "color": ["Blue", "White"],
+    "college": "Penn State"
+},
+{
+    "name": "Nick Bosa",
+    "conference": "Big Ten",
+    "color": ["Red", "Gray"],
+    "college": "Ohio State"
+},
+{
+    "name": "Maxx Crosby",
+    "conference": "MAC",
+    "color": ["Green", "White"],
+    "college": "Eastern Michigan"
+},
+{
+    "name": "Quinnen Williams",
+    "conference": "SEC",
+    "color": ["Red", "White"],
+    "college": "Alabama"
+},
+{
+    "name": "Sauce Gardner",
+    "conference": "AAC",
+    "color": ["Red", "Black"],
+    "college": "Cincinnati"
+},
+{
+    "name": "Roquan Smith",
+    "conference": "SEC",
+    "color": ["Red", "Black"],
+    "college": "Georgia"
+},
+{
+    "name": "Jalen Ramsey",
+    "conference": "ACC",
+    "color": ["Maroon", "Gold"],
+    "college": "Florida State"
+},
+{
+    "name": "Derwin James",
+    "conference": "ACC",
+    "color": ["Maroon", "Gold"],
+    "college": "Florida State"
+},
+{
+    "name": "Jeffery Simmons",
+    "conference": "SEC",
+    "color": ["Maroon", "White"],
+    "college": "Mississippi State"
+},
+{
+    "name": "Shaquille Leonard",
+    "conference": "MEAC",
+    "color": ["Maroon", "Black"],
+    "college": "South Carolina State"
+},
+{
+    "name": "Josh Allen",
+    "conference": "SEC",
+    "color": ["Blue", "White"],
+    "college": "Kentucky"
+},
+{
+    "name": "T.J. Watt",
+    "conference": "Big Ten",
+    "color": ["Red", "White"],
+    "college": "Wisconsin"
+},
+{
+    "name": "Trevon Diggs",
+    "conference": "SEC",
+    "color": ["Red", "White"],
+    "college": "Alabama"
+},
+{
+    "name": "Xavien Howard",
+    "conference": "Big 12",
+    "color": ["Green", "Gold"],
+    "college": "Baylor"
+},
+{
+    "name": "Joey Bosa",
+    "conference": "Big Ten",
+    "color": ["Red", "Gray"],
+    "college": "Ohio State"
+},
+{
+    "name": "Darius Slay",
+    "conference": "SEC",
+    "color": ["Maroon", "White"],
+    "college": "Mississippi State"
+},
+{
+    "name": "Budda Baker",
+    "conference": "Pac-12",
+    "color": ["Purple", "Gold"],
+    "college": "Washington"
+},
+{
+    "name": "DeForest Buckner",
+    "conference": "Pac-12",
+    "color": ["Green", "Yellow"],
+    "college": "Oregon"
+},
+{
+    "name": "Za'Darius Smith",
+    "conference": "SEC",
+    "color": ["Blue", "White"],
+    "college": "Kentucky"
+},
+{
+    "name": "Harold Landry",
+    "conference": "ACC",
+    "color": ["Maroon", "Gold"],
+    "college": "Boston College"
+},
+{
+    "name": "Brian Burns",
+    "conference": "ACC",
+    "color": ["Maroon", "Gold"],
+    "college": "Florida State"
+},
+{
+    "name": "Chase Young",
+    "conference": "Big Ten",
+    "color": ["Red", "Gray"],
+    "college": "Ohio State"
+},
+{
+    "name": "Montez Sweat",
+    "conference": "SEC",
+    "color": ["Marron", "White"],
+    "college": "Mississippi State"
+},
+{
+    "name": "Aidan Hutchinson",
+    "conference": "Big Ten",
+    "color": ["Yellow", "Blue"],
+    "college": "Michigan"
+},
+{
+    "name": "Jaire Alexander",
+    "conference": "ACC",
+    "color": ["Red", "White"],
+    "college": "Louisville"
+},
+{
+    "name": "Demario Davis",
+    "conference": "SBC",
+    "color": ["Red", "Black"],
+    "college": "Arkansas State"
+},
+{
+    "name": "Fred Warner",
+    "conference": "Mountain West",
+    "color": ["Royal Blue", "White"],
+    "college": "BYU"
+},
+{
+    "name": "Jessie Bates III",
+    "conference": "ACC",
+    "color": ["Black", "Gold"],
+    "college": "Wake Forest"
+}
+]
