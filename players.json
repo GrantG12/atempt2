@@ -38,7 +38,7 @@
     {
         "name": "Terry Bradshaw",
         "conference": "Southland Conference",
-        "color": ["Red","Blue", "White"],
+        "color": ["Red", "Blue", "White"],
         "college": "Louisiana Tech"
     },
     {
@@ -91,7 +91,7 @@
     },
     {
         "name": "Jim Everett",
-        "conference": "Pac-10",
+        "conference": "Big Ten",
         "color": ["Silver", "Gold"],
         "college": "Purdue"
     },
@@ -643,7 +643,7 @@
     },
     {
         "name": "Chad Johnson",
-        "conference": "C-USA",
+        "conference": "Pac-10",
         "color": ["Orange", "White"],
         "college": "Oregon State"
     },
@@ -877,7 +877,7 @@
     },
     {
         "name": "Mike Williams",
-        "conference": "SEC",
+        "conference": "Pac-10",
         "color": ["Red", "White"],
         "college": "USC"
     },
@@ -1075,7 +1075,7 @@
     },
     {
         "name": "Jack Tatum",
-        "conference": "Pac-8",
+        "conference": "Big Ten",
         "color": ["Red", "Gray"],
         "college": "Ohio State"
     },
@@ -1094,7 +1094,7 @@
     {
         "name": "Chris Doleman",
         "conference": "ACC",
-        "color": ["Blue", "White","Yellow"],
+        "color": ["Blue", "White", "Yellow"],
         "college": "Pittsburgh"
     },
     {
@@ -1234,7 +1234,7 @@
         "conference": "Big 12",
         "color": ["Red", "Black"],
         "college": "Texas Tech"
-},
+    },
 {
     "name": "Josh Allen",
     "conference": "Mountain West",
@@ -1803,7 +1803,7 @@
     {
         "name": "Josh Downs",
         "conference": "ACC",
-        "color": [" Blue", "White"],
+        "color": ["Blue", "White"],
         "college": "North Carolina"
     },
     {
@@ -1965,7 +1965,7 @@
 {
     "name": "Montez Sweat",
     "conference": "SEC",
-    "color": ["Marron", "White"],
+    "color": ["Maron", "White"],
     "college": "Mississippi State"
 },
 {
