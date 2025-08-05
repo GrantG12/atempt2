@@ -1,52 +1,78 @@
 const axios = require('axios');
 
 exports.handler = async (event, context) => {
-  // 1. Parse frontend data
-  const { prompt, botType, intensity } = JSON.parse(event.body);
-
-  // 2. Securely use OpenAI key (set in Netlify's environment variables)
-  const OPENAI_KEY = process.env.OPENAI_KEY;
-
-  // 3. Define bot personalities (same as your frontend)
-  const systemMessages = {
-    devil: `You are a professional devil's advocate. Intensity level: ${intensity}/1.5. 
-            Always take the opposite position, challenge assumptions, and point out flaws. 
-            Use sarcasm and skepticism when appropriate. Keep responses under 100 words.`,
-    optimist: `You are an enthusiastic optimist. Intensity level: ${intensity}/1.5. 
-               Always find the positive angle, propose solutions, and maintain hope. 
-               Use encouraging language and focus on opportunities. Keep responses under 100 words.`
+  // 1. Set CORS headers
+  const headers = {
+    'Access-Control-Allow-Origin': '*',
+    'Content-Type': 'application/json'
   };
 
+  // 2. Only allow POST requests
+  if (event.httpMethod !== 'POST') {
+    return {
+      statusCode: 405,
+      headers,
+      body: JSON.stringify({ error: 'Method Not Allowed' })
+    };
+  }
+
+  // 3. Safely parse JSON
+  let payload;
   try {
-    // 4. Call OpenAI
+    payload = JSON.parse(event.body);
+  } catch (err) {
+    return {
+      statusCode: 400,
+      headers,
+      body: JSON.stringify({ error: 'Invalid JSON' })
+    };
+  }
+
+  // 4. Validate required fields
+  if (!payload.prompt || !payload.botType) {
+    return {
+      statusCode: 400,
+      headers,
+      body: JSON.stringify({ error: 'Missing required fields' })
+    };
+  }
+
+  // 5. Process the request
+  try {
     const response = await axios.post(
       'https://api.openai.com/v1/chat/completions',
       {
         model: "gpt-3.5-turbo",
         messages: [
-          { role: "system", content: systemMessages[botType] },
-          { role: "user", content: prompt }
+          {
+            role: "system",
+            content: `You are a ${payload.botType}. ${payload.prompt}`
+          }
         ],
-        temperature: intensity * 0.8,
+        temperature: payload.intensity * 0.8,
         max_tokens: 150
       },
       {
         headers: {
-          'Authorization': `Bearer ${OPENAI_KEY}`,
+          'Authorization': `Bearer ${process.env.OPENAI_KEY}`,
           'Content-Type': 'application/json'
         }
       }
     );
 
-    // 5. Return the AI's reply
     return {
       statusCode: 200,
-      body: JSON.stringify({ reply: response.data.choices[0].message.content })
+      headers,
+      body: JSON.stringify({ 
+        reply: response.data.choices[0].message.content 
+      })
     };
   } catch (error) {
+    console.error('OpenAI Error:', error);
     return {
       statusCode: 500,
-      body: JSON.stringify({ error: "Failed to call OpenAI" })
+      headers,
+      body: JSON.stringify({ error: 'AI service unavailable' })
     };
   }
 };

@@ -112,23 +112,31 @@ document.addEventListener('DOMContentLoaded', () => {
     }
 
     async function getAIResponse(prompt, botType, intensity) {
-  try {
-    // Call your Netlify Function
-    const response = await fetch('/.netlify/functions/debate', {
-      method: 'POST',
-      headers: { 'Content-Type': 'application/json' },
-      body: JSON.stringify({ prompt, botType, intensity })
-    });
-
-    if (!response.ok) throw new Error(`API request failed: ${response.status}`);
+        try {
+            console.log('Sending:', { prompt, botType, intensity }); // Debug
     
-    const data = await response.json();
-    return data.reply; // The AI's response from your backend
+            const response = await fetch('/.netlify/functions/debate', {
+            method: 'POST',
+            headers: { 'Content-Type': 'application/json' },
+            body: JSON.stringify({ 
+                prompt,
+                botType,
+                intensity: parseFloat(intensity) || 1.0 
+            })
+         });
 
-  } catch (error) {
-    console.error(`Error getting ${botType} response:`, error);
-    throw error;
-  }
+            if (!response.ok) {
+            const error = await response.json();
+            throw new Error(error.error || 'API request failed');
+            }
+
+            const data = await response.json();
+            return data.reply;
+    
+        } catch (error) {
+            console.error('Fetch Error:', error);
+            return `Error: ${error.message}`;
+        }
 }
 
     function addMessage(chatBox, message, isThinking = false) {
