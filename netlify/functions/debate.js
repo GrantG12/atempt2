@@ -1,6 +1,10 @@
 const axios = require('axios');
 
 exports.handler = async (event, context) => {
+
+  console.log('Key exists?', !!process.env.OPENAI_KEY);
+  console.log('Key first 5 chars:', process.env.OPENAI_KEY?.slice(0, 5) + '...');
+
   // 1. Set CORS headers
   const headers = {
     'Access-Control-Allow-Origin': '*',
