@@ -136,7 +136,7 @@ document.addEventListener('DOMContentLoaded', () => {
         } catch (error) {
             console.error('Fetch Error:', error);
             return `Error: ${error.message}`;
-        }
+         }
 }
 
     function addMessage(chatBox, message, isThinking = false) {
